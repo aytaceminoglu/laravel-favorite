@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/laravel-favorite",
+    "name": "aytaceminoglu/laravel-favorite",
     "description": "User favorite features for Laravel Application.",
     "license": "MIT",
     "authors": [
@@ -9,8 +9,7 @@
         }
     ],
     "require": {
-        "php": "^8.0.2",
-        "laravel/framework": "^9.0"
+        "laravel/framework": "^8.0"
     },
     "autoload": {
         "psr-4": {
